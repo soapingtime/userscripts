@@ -1,0 +1,1 @@
+console for mobile browsers

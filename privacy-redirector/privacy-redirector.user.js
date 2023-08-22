@@ -106,7 +106,7 @@ let binternetInstances = [
 ];
 
 let breezewikiInstances = [
-  "breezewiki.com",
+  "bw.artemislena.eu",
   "breezewiki.pussthecat.org",
   "antifandom.com",
   "bw.hamstro.dev",

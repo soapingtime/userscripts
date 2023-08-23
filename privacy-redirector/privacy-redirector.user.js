@@ -184,11 +184,11 @@ let rimgoInstances = [
 ];
 
 let scribeInstances = [
-  "scribe.rip",
-  "scribe.nixnet.services",
-  "scribe.citizen4.eu",
-  "scribe.bus-hit.me",
-  "scribe.privacydev.net",
+//  "scribe.rip",
+//  "scribe.nixnet.services",
+//  "scribe.citizen4.eu",
+//  "scribe.bus-hit.me",
+//  "scribe.privacydev.net",
   "sc.vern.cc",
 ];
 

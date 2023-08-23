@@ -44,7 +44,7 @@ let gtranslate = [false, false];
 let hackernews = [false, false];
 let imdb = [true, true];
 let imgur = [true, true];
-let medium = [true, true];
+let medium = [true, false];
 let pinterest = [true, true];
 let quora = [false, true];
 let reddit = [false, false];
@@ -53,7 +53,7 @@ let stackoverflow = [false, false];
 let tiktok = [true, true];
 let twitter = [false, false];
 let wikipedia = [false, false];
-let youtube = [true, true];
+let youtube = [false, false];
 
 //       REDIRECTON / FARSIDE / WARNING
 let instagram = [false, false, true];
@@ -188,6 +188,8 @@ let scribeInstances = [
   "scribe.nixnet.services",
   "scribe.citizen4.eu",
   "scribe.bus-hit.me",
+  "scribe.privacydev.net",
+  "sc.vern.cc",
 ];
 
 let tedditInstances = [

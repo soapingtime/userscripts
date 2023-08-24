@@ -14,3 +14,5 @@
 eruda.init({
     tool: ['console', 'elements']
 });
+
+eruda.add(eruda.console);

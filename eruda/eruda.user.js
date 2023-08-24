@@ -11,8 +11,5 @@
 // @noframes
 // ==/UserScript==
 
-eruda.init({
-    tool: ['console', 'elements']
-});
-
+eruda.init
 eruda.add(eruda.console);

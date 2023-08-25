@@ -36,7 +36,7 @@ PARTICULAR PLATFORM */
 
 //           REDIRECTON / FARSIDE
 let bandcamp = [true, true];
-let fandom = [true, true];
+let fandom = [true, false];
 let genius = [false, false];
 let goodreads = [false, false];
 let google = [false, false];

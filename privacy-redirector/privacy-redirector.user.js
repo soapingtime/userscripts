@@ -21,6 +21,7 @@
 // @match *://imgur.*/*
 // @match *://medium.com/*
 // @match *://t4.bcbits.com/*
+// @match *://imgur.io/*
 // ==/UserScript==
 
 /*

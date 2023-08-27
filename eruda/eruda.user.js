@@ -12,4 +12,3 @@
 // ==/UserScript==
 
 eruda.init
-eruda.add(eruda.console);

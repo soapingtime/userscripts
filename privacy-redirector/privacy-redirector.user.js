@@ -111,6 +111,7 @@ let breezewikiInstances = [
   "breezewiki.pussthecat.org",
   "antifandom.com",
   "bw.hamstro.dev",
+  "breezewiki.frontendfriendly.xyz",
 ];
 
 let dumbInstances = [
